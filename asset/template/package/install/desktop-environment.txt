@@ -8,6 +8,22 @@
 
 
 ##
+## * https://wiki.archlinux.org/title/LXQt
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Lxqt
+##
+
+lxqt
+
+
+
+
+##
 ## ## Package / Window Manager / openbox
 ##
 
