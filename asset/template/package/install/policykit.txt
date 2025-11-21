@@ -43,7 +43,7 @@ polkit-gnome
 ## ## Package / Polkit / lxqt
 ##
 
-lxqt-policykit
+#lxqt-policykit
 
 
 
@@ -52,4 +52,4 @@ lxqt-policykit
 ## ## Package / Polkit / hyprland
 ##
 
-#hyprpolkitagent
+hyprpolkitagent
